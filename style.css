@@ -1,1 +1,37 @@
-
+p{
+  font-family: script;
+  font-size: 16px;
+  color: black;
+}
+ul{
+  font-family: Helvetica;
+  font-size: 14px;
+  color: lightblue;
+}
+ol{
+  font-family: Helvetica;
+  font-size: 14px;
+  color: lightblue;
+}
+h1{
+  font-family: Helvetica;
+  font-size: 18px;
+  color: black;
+}
+header{
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 24px;
+  color: black;
+  
+}
+body{
+  font-family: Helvetica;
+  font-size: 16px;
+  color: black;
+}
+footer{
+  font-family: Helvetica;
+  font-size: 14px;
+  color: black;
+}
